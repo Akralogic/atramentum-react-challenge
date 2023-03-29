@@ -70,7 +70,7 @@ Nuestra intención no es hacerte perder el tiempo, sino comprobar tu encaje en l
 
 Los medios que utilices para realizar esta prueba son indiferentes: puedes bucar casos similares en la red, ayudarte de algún copiloto de IA, etc. Lo que queremos es que entiendas lo que haces y por qué lo haces. Y en la entrevista que concertemos tras la entrega de la prueba técnica, será sobre lo que hablaremos: tranquilo, no se trata de un examen y pasaremos un buen rato hablando de tecnología.
 
-Envíanos tu CV, enlace a tu perfil de GitHub y enlace al repositorio de la prueba técnica a [rrhh@akralogic.es](mailto:rrhh@akralogic.es) o contáctanos a través de nuestra página en [Linkedin](https://www.linkedin.com/company/atramentum-sl/).
+Envíanos tu CV, enlace a tu perfil de GitHub y enlace al repositorio de la prueba técnica a [vacantes@akralogic.es](mailto:vacantes@akralogic.es) o contáctanos a través de nuestra página en [Linkedin](https://www.linkedin.com/company/atramentum-sl/).
 
 No es necesario que la web esté disponible online, pero de no ser así, deberás incluir las instrucciones para levantarla en local. 🚀
 
